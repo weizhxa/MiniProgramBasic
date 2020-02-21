@@ -1,0 +1,6 @@
+<view class='out'>
+  <image class='inner_img' src="/images/miniprogram_2.png"></image>
+  <view class='inner'>
+    <navigator class='start' open-type='redirect' hover-start-time="0" hover-stay-time="10" url="/pages/main/main">开始</navigator>
+  </view>
+</view>

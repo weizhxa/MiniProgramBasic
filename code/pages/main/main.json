@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "微信小程序开发入门",
+  "usingComponents": {
+    "mp-tabbar": "../../components/tabbar/tabbar",
+    "scrolltitlebar": "../../components/scrolltitlebar/scrolltitlebar"
+  }
+}
